@@ -16,7 +16,7 @@
 <a href="mailto:erikpootsanchez@gmail.com">
   <img align="left" alt="Erik Poot Sánchez | Email" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" />
 </a>
-
+<br />
 
 ### 🛠️ Languages and Tools:
 
