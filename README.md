@@ -1,7 +1,7 @@
 <h1 align="center">Hi there <img src="https://github.com/sudnyeshtalekar/sudnyeshtalekar/blob/master/Assets/Hi.gif" width="40px">, I'm Erik Poot Sánchez </h1>
 <br />
 
-<a href="https://twitter.com/erik_psanchez">
+<!--<a href="https://twitter.com/erik_psanchez">
   <img align="left" alt="Erik Poot Sánchez | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
 </a>
 
@@ -28,9 +28,6 @@
 ![Git](https://img.shields.io/badge/-Git-333333?style=flat&logo=git)
 ![Github](https://img.shields.io/badge/-Github-333333?style=flat&logo=github)
 
-<!--
-**erikpsanchez/erikpsanchez** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
@@ -41,4 +38,9 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
+
+<!--
+**erikpsanchez/erikpsanchez** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+
+
 -->
