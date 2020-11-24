@@ -9,9 +9,9 @@
   <img align="left" alt="Erik Poot Sánchez | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
 </a>
 
-<a href="https://www.facebook.com/erik.pootsanchez">
+<!-- <a href="https://www.facebook.com/erik.pootsanchez">
   <img align="left" alt="Erik Poot Sánchez | Facebook" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" />
-</a>
+</a> -->
 
 <a href="mailto:erikpootsanchez@gmail.com">
   <img align="left" alt="Erik Poot Sánchez | Email" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" />
