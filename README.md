@@ -29,10 +29,11 @@
 ![Github](https://img.shields.io/badge/-Github-333333?style=flat&logo=github)
 ![Illustrator](https://img.shields.io/badge/-Illustrator-333333?style=flat&logo=adobe-illustrator)&nbsp;
 ![Photoshop](https://img.shields.io/badge/-Photoshop-333333?style=flat&logo=adobe-photoshop)&nbsp;
-[![MongoDB](https://img.shields.io/badge/-MongoDB-333333?style=flat-square&logo=mongodb&logoColor=47A248)]
+
 ## Learning
 ![JavaScript](https://img.shields.io/badge/-JavaScript-333333?style=flat&logo=javascript)&nbsp;
 ![Node.js](https://img.shields.io/badge/-Node.js-333333?style=flat&logo=node.js)&nbsp;
+![MongoDB](https://img.shields.io/badge/-MongoDB-333333?style=flat-square&logo=mongodb&logoColor=47A248)
 
 Here are some ideas to get you started:
 
