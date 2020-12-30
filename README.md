@@ -20,6 +20,7 @@
 
 ### 🛠️ Languages and Tools:
 
+![C](https://img.shields.io/badge/-C-333333?style=flat&logo=c&logoColor=FFFFFF)&nbsp;
 ![C++](https://img.shields.io/badge/-C++-333333?style=flat&logo=c%2B%2B)&nbsp;
 ![HTML5](https://img.shields.io/badge/-HTML5-333333?style=flat&logo=html5)&nbsp;
 ![CSS3](https://img.shields.io/badge/-CSS-333333?style=flat&logo=css3)&nbsp;
