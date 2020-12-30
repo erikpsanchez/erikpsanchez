@@ -35,6 +35,7 @@
 ![JavaScript](https://img.shields.io/badge/-JavaScript-333333?style=flat&logo=javascript)&nbsp;
 ![Node.js](https://img.shields.io/badge/-Node.js-333333?style=flat&logo=node.js)&nbsp;
 ![MongoDB](https://img.shields.io/badge/-MongoDB-333333?style=flat&logo=mongodb&logoColor=47A248)&nbsp;
+![Vue.js](https://img.shields.io/badge/-Vue.js-333333?style=flat&logo=vue.js)&nbsp;
 
 Here are some ideas to get you started:
 
