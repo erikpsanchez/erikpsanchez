@@ -30,6 +30,8 @@
 ![Github](https://img.shields.io/badge/-Github-333333?style=flat&logo=github)&nbsp;
 ![Illustrator](https://img.shields.io/badge/-Illustrator-333333?style=flat&logo=adobe-illustrator)&nbsp;
 ![Photoshop](https://img.shields.io/badge/-Photoshop-333333?style=flat&logo=adobe-photoshop)&nbsp;
+![Figma](https://img.shields.io/badge/-Figma-333333?style=flat&logo=figma&logoColor=FFFFFF)&nbsp;
+
 
 ## 📚 Learning
 ![JavaScript](https://img.shields.io/badge/-JavaScript-333333?style=flat&logo=javascript)&nbsp;
@@ -47,6 +49,10 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
+
+[![Erik Poot Sanchez's github stats](https://github-readme-stats.vercel.app/api?username=erikpsanchez&show_icons=true)]()
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=erikpsanchez&layout=compact)]()
 
 <!--
 **erikpsanchez/erikpsanchez** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
