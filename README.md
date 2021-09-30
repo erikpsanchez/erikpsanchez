@@ -1,41 +1,43 @@
-<h1 align="center">Hi there <img src="https://github.com/sudnyeshtalekar/sudnyeshtalekar/blob/master/Assets/Hi.gif" width="40px">, I'm Erik Poot Sánchez </h1>
-<br />
+<h1 align="center">Hi there <img src="https://github.com/sudnyeshtalekar/sudnyeshtalekar/blob/master/Assets/Hi.gif" width="40px">, I'm Erik </h1>
+
 
 <!--<a href="https://twitter.com/erik_psanchez">
   <img align="left" alt="Erik Poot Sánchez | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
 </a> -->
 
-<a href="https://www.instagram.com/erik_psanchez">
+<!--<a href="https://www.instagram.com/erik_psanchez">
   <img align="left" alt="Erik Poot Sánchez | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
-</a>
+</a> -->
 
 <!-- <a href="https://www.facebook.com/erik.pootsanchez">
   <img align="left" alt="Erik Poot Sánchez | Facebook" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" />
 </a> -->
 
-<a href="mailto:erikpootsanchez@gmail.com">
+<!--<a href="mailto:erikpootsanchez@gmail.com">
   <img align="left" alt="Erik Poot Sánchez | Email" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" />
-</a>
-<br />
+</a>-->
+
 
 ### 🛠️ Languages and Tools:
 
-![C](https://img.shields.io/badge/-C-333333?style=flat&logo=c&logoColor=FFFFFF)&nbsp;
-![C++](https://img.shields.io/badge/-C++-333333?style=flat&logo=c%2B%2B)&nbsp;
-![HTML5](https://img.shields.io/badge/-HTML5-333333?style=flat&logo=html5)&nbsp;
-![CSS3](https://img.shields.io/badge/-CSS-333333?style=flat&logo=css3)&nbsp;
-![Bootstrap](https://img.shields.io/badge/-Bootstrap-333333?style=flat&logo=bootstrap)&nbsp;
-![Markdown](https://img.shields.io/badge/-Markdown-333333?style=flat&logo=markdown)&nbsp;
-![Git](https://img.shields.io/badge/-Git-333333?style=flat&logo=git)&nbsp;
-![Github](https://img.shields.io/badge/-Github-333333?style=flat&logo=github)&nbsp;
-![Illustrator](https://img.shields.io/badge/-Illustrator-333333?style=flat&logo=adobe-illustrator)&nbsp;
-![Photoshop](https://img.shields.io/badge/-Photoshop-333333?style=flat&logo=adobe-photoshop)&nbsp;
-![Figma](https://img.shields.io/badge/-Figma-333333?style=flat&logo=figma&logoColor=FFFFFF)&nbsp;
+![C](https://img.shields.io/badge/-C-395eaf?style=flat&logo=c&logoColor=FFFFFF)&nbsp;
+![C++](https://img.shields.io/badge/-C++-395eaf?style=flat&logo=c%2B%2B)&nbsp;
+![HTML5](https://img.shields.io/badge/-HTML5-395eaf?style=flat&logo=html5&logoColor=FFFFFF)&nbsp;
+![CSS3](https://img.shields.io/badge/-CSS-395eaf?style=flat&logo=css3)&nbsp;
+![Bootstrap](https://img.shields.io/badge/-Bootstrap-395eaf?style=flat&logo=bootstrap&logoColor=FFFFFF)&nbsp;
+![Markdown](https://img.shields.io/badge/-Markdown-395eaf?style=flat&logo=markdown)&nbsp;
+![Git](https://img.shields.io/badge/-Git-395eaf?style=flat&logo=git&logoColor=FFFFFF)&nbsp;
+![Github](https://img.shields.io/badge/-GitHub-395eaf?style=flat&logo=github)&nbsp;
+![Figma](https://img.shields.io/badge/-Figma-395eaf?style=flat&logo=figma&logoColor=FFFFFF)&nbsp;
+<!--![Illustrator](https://img.shields.io/badge/-Illustrator-333333?style=flat&logo=adobe-illustrator)&nbsp;
+![Photoshop](https://img.shields.io/badge/-Photoshop-333333?style=flat&logo=adobe-photoshop)&nbsp;-->
+
 
 
 ## 📚 Learning
-![JavaScript](https://img.shields.io/badge/-JavaScript-333333?style=flat&logo=javascript)&nbsp;
-![Node.js](https://img.shields.io/badge/-Node.js-333333?style=flat&logo=node.js)&nbsp;
+![Java](https://img.shields.io/badge/-Java-395eaf?style=flat&logo=java)&nbsp;
+![JavaScript](https://img.shields.io/badge/-JavaScript-395eaf?style=flat&logo=javascript&logoColor=FFFFFF)&nbsp;
+<!--![Node.js](https://img.shields.io/badge/-Node.js-333333?style=flat&logo=node.js)&nbsp;
 ![MongoDB](https://img.shields.io/badge/-MongoDB-333333?style=flat&logo=mongodb&logoColor=47A248)&nbsp;
 ![Vue.js](https://img.shields.io/badge/-Vue.js-333333?style=flat&logo=vue.js)&nbsp;
 
@@ -48,7 +50,7 @@ Here are some ideas to get you started:
 - 💬 Ask me about ...
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+- ⚡ Fun fact: ...-->
 
 [![Erik Poot Sanchez's github stats](https://github-readme-stats.vercel.app/api?username=erikpsanchez&show_icons=true)]()
 
