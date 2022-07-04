@@ -37,6 +37,7 @@
 ### 📚 Learning
 ![Java](https://img.shields.io/badge/-Java-395eaf?style=flat&logo=java)&nbsp;
 ![JavaScript](https://img.shields.io/badge/-JavaScript-395eaf?style=flat&logo=javascript&logoColor=FFFFFF)&nbsp;
+![Vim](https://img.shields.io/badge/-Vim-395eaf?style=flat&logo=vim&logoColor=FFFFFF)&nbsp;
 <!--![Node.js](https://img.shields.io/badge/-Node.js-333333?style=flat&logo=node.js)&nbsp;
 ![MongoDB](https://img.shields.io/badge/-MongoDB-333333?style=flat&logo=mongodb&logoColor=47A248)&nbsp;
 ![Vue.js](https://img.shields.io/badge/-Vue.js-333333?style=flat&logo=vue.js)&nbsp;
