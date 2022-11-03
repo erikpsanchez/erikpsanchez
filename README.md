@@ -20,6 +20,7 @@
 
 ### 🛠️ Languages and Tools:
 
+![Java](https://img.shields.io/badge/-Java-395eaf?style=flat&logo=java&logoColor=FFFFFF)&nbsp;
 ![C](https://img.shields.io/badge/-C-395eaf?style=flat&logo=c&logoColor=FFFFFF)&nbsp;
 ![C++](https://img.shields.io/badge/-C++-395eaf?style=flat&logo=c%2B%2B)&nbsp;
 ![HTML5](https://img.shields.io/badge/-HTML5-395eaf?style=flat&logo=html5&logoColor=FFFFFF)&nbsp;
@@ -35,7 +36,7 @@
 
 
 ### 📚 Learning
-![Java](https://img.shields.io/badge/-Java-395eaf?style=flat&logo=java)&nbsp;
+![Python](https://img.shields.io/badge/-Python-395eaf?style=flat&logo=python&logoColor=FFFFFF)&nbsp;
 ![JavaScript](https://img.shields.io/badge/-JavaScript-395eaf?style=flat&logo=javascript&logoColor=FFFFFF)&nbsp;
 ![Vim](https://img.shields.io/badge/-Vim-395eaf?style=flat&logo=vim&logoColor=FFFFFF)&nbsp;
 <!--![Node.js](https://img.shields.io/badge/-Node.js-333333?style=flat&logo=node.js)&nbsp;
