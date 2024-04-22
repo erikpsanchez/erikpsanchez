@@ -29,15 +29,16 @@
 ![Bootstrap](https://img.shields.io/badge/-Bootstrap-395eaf?style=flat&logo=bootstrap&logoColor=FFFFFF)&nbsp;
 ![Markdown](https://img.shields.io/badge/-Markdown-395eaf?style=flat&logo=markdown)&nbsp;
 ![Git](https://img.shields.io/badge/-Git-395eaf?style=flat&logo=git&logoColor=FFFFFF)&nbsp;
-<!--![Github](https://img.shields.io/badge/-GitHub-395eaf?style=flat&logo=github)&nbsp;-->
 ![Figma](https://img.shields.io/badge/-Figma-395eaf?style=flat&logo=figma&logoColor=FFFFFF)&nbsp;
+![React](https://img.shields.io/badge/-React-395eaf?style=flat&logo=react&logoColor=FFFFFF)&nbsp;
+![React](https://img.shields.io/badge/-Vue-395eaf?style=flat&logo=vue&logoColor=FFFFFF)&nbsp;
+<!--![Github](https://img.shields.io/badge/-GitHub-395eaf?style=flat&logo=github)&nbsp;-->
 <!--![Illustrator](https://img.shields.io/badge/-Illustrator-333333?style=flat&logo=adobe-illustrator)&nbsp;
 ![Photoshop](https://img.shields.io/badge/-Photoshop-333333?style=flat&logo=adobe-photoshop)&nbsp;-->
-![React](https://img.shields.io/badge/-React-395eaf?style=flat&logo=react&logoColor=FFFFFF)&nbsp;
 
 ### 📚 Learning
 ![Python](https://img.shields.io/badge/-Python-395eaf?style=flat&logo=python&logoColor=FFFFFF)&nbsp;
-![Vim](https://img.shields.io/badge/-Vim-395eaf?style=flat&logo=vim&logoColor=FFFFFF)&nbsp;
+![Astro](https://img.shields.io/badge/-Astro-395eaf?style=flat&logo=astro&logoColor=FFFFFF)&nbsp;
 <!--![Node.js](https://img.shields.io/badge/-Node.js-333333?style=flat&logo=node.js)&nbsp;
 ![MongoDB](https://img.shields.io/badge/-MongoDB-333333?style=flat&logo=mongodb&logoColor=47A248)&nbsp;
 ![Vue.js](https://img.shields.io/badge/-Vue.js-333333?style=flat&logo=vue.js)&nbsp;
