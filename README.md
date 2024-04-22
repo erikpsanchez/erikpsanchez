@@ -23,21 +23,20 @@
 ![Java](https://img.shields.io/badge/-Java-395eaf?style=flat&logo=java&logoColor=FFFFFF)&nbsp;
 ![C](https://img.shields.io/badge/-C-395eaf?style=flat&logo=c&logoColor=FFFFFF)&nbsp;
 ![C++](https://img.shields.io/badge/-C++-395eaf?style=flat&logo=c%2B%2B)&nbsp;
-![HTML5](https://img.shields.io/badge/-HTML5-395eaf?style=flat&logo=html5&logoColor=FFFFFF)&nbsp;
-![CSS3](https://img.shields.io/badge/-CSS-395eaf?style=flat&logo=css3)&nbsp;
+![HTML](https://img.shields.io/badge/-HTML5-395eaf?style=flat&logo=html5&logoColor=FFFFFF)&nbsp;
+![CSS](https://img.shields.io/badge/-CSS-395eaf?style=flat&logo=css3)&nbsp;
+![JavaScript](https://img.shields.io/badge/-JavaScript-395eaf?style=flat&logo=javascript&logoColor=FFFFFF)&nbsp;
 ![Bootstrap](https://img.shields.io/badge/-Bootstrap-395eaf?style=flat&logo=bootstrap&logoColor=FFFFFF)&nbsp;
 ![Markdown](https://img.shields.io/badge/-Markdown-395eaf?style=flat&logo=markdown)&nbsp;
 ![Git](https://img.shields.io/badge/-Git-395eaf?style=flat&logo=git&logoColor=FFFFFF)&nbsp;
-![Github](https://img.shields.io/badge/-GitHub-395eaf?style=flat&logo=github)&nbsp;
+<!--![Github](https://img.shields.io/badge/-GitHub-395eaf?style=flat&logo=github)&nbsp;-->
 ![Figma](https://img.shields.io/badge/-Figma-395eaf?style=flat&logo=figma&logoColor=FFFFFF)&nbsp;
 <!--![Illustrator](https://img.shields.io/badge/-Illustrator-333333?style=flat&logo=adobe-illustrator)&nbsp;
 ![Photoshop](https://img.shields.io/badge/-Photoshop-333333?style=flat&logo=adobe-photoshop)&nbsp;-->
-
-
+![React](https://img.shields.io/badge/-React-395eaf?style=flat&logo=react&logoColor=FFFFFF)&nbsp;
 
 ### 📚 Learning
 ![Python](https://img.shields.io/badge/-Python-395eaf?style=flat&logo=python&logoColor=FFFFFF)&nbsp;
-![JavaScript](https://img.shields.io/badge/-JavaScript-395eaf?style=flat&logo=javascript&logoColor=FFFFFF)&nbsp;
 ![Vim](https://img.shields.io/badge/-Vim-395eaf?style=flat&logo=vim&logoColor=FFFFFF)&nbsp;
 <!--![Node.js](https://img.shields.io/badge/-Node.js-333333?style=flat&logo=node.js)&nbsp;
 ![MongoDB](https://img.shields.io/badge/-MongoDB-333333?style=flat&logo=mongodb&logoColor=47A248)&nbsp;
